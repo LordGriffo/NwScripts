@@ -1,4 +1,4 @@
-#HashBang usiando o Bash
+#HashBang usando o Bash
 
 #!/usr/bin/env bash
 
