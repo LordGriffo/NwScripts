@@ -5,11 +5,11 @@
 
 header="#!/usr/bin/env bash
 # --------------------------------------------------------
-# Script    :
-# Descrição : 
+# Script    : my_bestbash.sh
+# Descrição : Best Example of NWScript version!
 # Versão    : 0.1
-# Autor     : 
-# Data      :
+# Autor     : Lord Griffo <griffoderuppell@gmail.com>
+# Data      : 02/jan/2022
 # Licença   : GNU/GPL V3.0
 # --------------------------------------------------------
 # Uso:
