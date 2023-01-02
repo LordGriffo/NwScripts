@@ -34,7 +34,7 @@ editor=nano
 
 #Colocar o Enviroment na hashbang ((Executar no pré-shell)
 
-echo $header > $1
+echo "$header" > $1
 chmod +x $1
 editor $1
 
