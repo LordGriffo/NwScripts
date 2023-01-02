@@ -37,3 +37,5 @@ editor=nano
 echo $header > $1
 chmod +x $1
 editor $1
+
+exit 0
